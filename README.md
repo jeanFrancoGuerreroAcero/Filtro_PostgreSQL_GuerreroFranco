@@ -15,6 +15,13 @@ gestión de su inventario y ventas.
 
 ## Diagrama ER
 
+## Descripcion de archivos
+
+- db.sql: contiene las tablas de la base de datos
+- insert.sql: contiene las inserciones de las tablas
+- queries.sql: contiene consultas especificas de las tablas
+- proceduresAndFunction: contiene procedimientos y funciones de las tablas
+- Diagrama_ER: el diagrama entidad relacion de la base de datos
 
 ## Lenguajes
 - PostgreSQL
