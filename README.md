@@ -14,7 +14,7 @@ gestión de su inventario y ventas.
 - ventas
 
 ## Diagrama ER
-!()[modeloER.png]
+![](modeloER.png)
 ## Descripcion de archivos
 
 - db.sql: contiene las tablas de la base de datos
